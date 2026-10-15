@@ -2,6 +2,9 @@
 
 **An agentic workflow for turning source material into grounded, audience-specific decision artifacts.**
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/ad47e917-8083-495b-ae6d-0f48bece9728" />
+
+
 **truth → editorial selection → structure → writing → verification**
 
 Built for high-stakes artifacts where factual correctness isn't enough. The system keeps four questions apart: what is true, what matters, what the reader needs to understand, and how to say it well.
